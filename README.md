@@ -1,6 +1,6 @@
 ![MasterHead](https://nebigdatahub.org/wp-content/uploads/2019/11/7T9364v.gif)
 <h1 align="center">Hello There 👋, I'm Fatima Kabalan</h1>
-<h3 align="center">I'm a physicit from Lebanon</h3>
+<h3 align="center">I'm Learning Frontend</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c9d0d626314115.563540af71bc6.gif">
 
 
