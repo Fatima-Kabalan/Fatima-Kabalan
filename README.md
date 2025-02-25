@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **kabalan.fatima01@gmail.com**
 
-- ⚡ Fun fact **I'm a K-Drama fan**
-
 <p align="left">
 </p>
 
